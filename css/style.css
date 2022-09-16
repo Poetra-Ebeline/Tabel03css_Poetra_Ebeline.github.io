@@ -1,0 +1,35 @@
+table{
+  
+	padding: 10px 5px;
+	border-collapse: separate;
+	color: white;
+	width: 100%;
+	transform: 1000px;
+	background-color:#808080;
+    
+}
+th
+{
+    background-color: #40E0D0;
+    color: white;
+    border: 4px solid #A0522D;
+    padding: 4px 4px;    
+	
+}
+
+th:hover{
+	color: red;
+	letter-spacing: 4px;
+	
+}
+
+ 
+ td
+{
+    border: 4px solid black;
+    padding: 4px 4px;
+    width: 5px;
+}
+ tr{
+ 	text-align: center;
+ }
